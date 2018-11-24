@@ -4,7 +4,6 @@ date: 2018-11-13T23:13:30-05:00
 draft: false
 tags: ["content management", "ubuntu", "github", "golang"]
 categories: ["software"]
-authors: ["ajduncan"]
 ---
 
 # Managing content with Hugo
