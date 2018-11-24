@@ -17,7 +17,7 @@ Add the logic to run hugo e.g.;
        
        hugo -s ~/github/blog/ -d ~/blog/public'''
 
-    $ chmod +x ~/github/blog/.git/post-receive
+    $ chmod +x ~/github/blog/.git/hooks/post-receive
 
 Then create a cron job to periodically check e.g.
 
