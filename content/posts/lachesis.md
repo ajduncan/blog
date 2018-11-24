@@ -1,6 +1,8 @@
 ---
 title: "Lachesis"
 date: 2018-11-23T22:24:52-05:00
+tags: ["content management", "ubuntu", "github", "golang"]
+categories: ["software"]
 draft: false
 authors: ["ajduncan"]
 ---
