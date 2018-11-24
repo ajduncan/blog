@@ -9,7 +9,7 @@ make sure you've set a git hook on the master branch, e.g.:
 
     $ mkdir ~/github && cd ~/github
     $ git clone https://github.com/ajduncan/blog.git
-    $ vim ~/github/blog/.git/post-receive
+    $ vim ~/github/blog/.git/post-merge
 
 Add the logic to run hugo e.g.;
 
@@ -23,7 +23,9 @@ Then create a cron job to periodically check e.g.
 
     $ crontab -e
 
-0 2 * * * cd ~/github/blog && git pull > 2&1 &
+* * * * * cd ~/github/blog && git pull > 2&1 &
+
+Which will issue git pull every minute, and run post-merge if there are any commits.
 
 ## Adding Pages
 
