@@ -1,0 +1,24 @@
+baseURL = "https://ajduncan.org/blog/"
+languageCode = "en-us"
+title = "ajduncan.org"
+theme = "lachesis"
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+
+
+[params]
+  favicon = ""
+  description = "Carefree life and times."
+  background_color_class = "bg-black"
+
+  featured_image = "images/background.jpg"
+  twitter = "https://twitter.com/ajduncan/"
+  facebook = "https://www.facebook.com/ajduncan/"
+  linkedin = "https://linkedin.com/in/ajduncan/"
+  github = "https://github.com/ajduncan/"
+
+  recent_posts_number = 3
