@@ -49,7 +49,6 @@ management has vulnerabilities, but that isn't a priority since we're using this
 since there are so many people using npm, gems, composer, etc and so many dependencies that are vulnerable.  I'll have to come back later and 
 resolve these issues by removing dependencies.
 
-
 ## Publishing
 
 Now if I want to update the theme (and demo site), my workflow becomes:
