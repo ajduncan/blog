@@ -20,4 +20,4 @@ theme = "lachesis"
   linkedin = "https://linkedin.com/in/ajduncan/"
   github = "https://github.com/ajduncan/"
 
-  recent_posts_number = 3
+  recent_posts_number = 10
