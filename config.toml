@@ -7,7 +7,6 @@ theme = "lachesis"
 [taxonomies]
   tag = "tags"
   category = "categories"
-  author = "authors"
 
 
 [params]
