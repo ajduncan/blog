@@ -7,7 +7,7 @@ theme = "lachesis"
 [taxonomies]
   tag = "tags"
   category = "categories"
-
+  authors = "authors"
 
 [params]
   favicon = ""
@@ -20,4 +20,4 @@ theme = "lachesis"
   linkedin = "https://linkedin.com/in/ajduncan/"
   github = "https://github.com/ajduncan/"
 
-  recent_posts_number = 10
+  recent_posts_number = 4
