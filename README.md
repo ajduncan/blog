@@ -23,7 +23,7 @@ Then create a cron job to periodically check e.g.
 
     $ crontab -e
 
-* * * * * cd ~/github/blog && git pull > 2&1 &
+* * * * * cd ~/github/blog && git pull > /dev/null 2>&1
 
 Which will issue git pull every minute, and run post-merge if there are any commits.
 
