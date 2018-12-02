@@ -2,7 +2,7 @@
 browser = "firefox"
 tabs = [
   "https://github.com/ajduncan/blog",
-  "http://localhost:1313/",
+  "http://localhost:1313/blog/",
   "https://ajduncan.org/blog/"
 ]
 
