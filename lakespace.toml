@@ -1,0 +1,11 @@
+[blog]
+browser = "firefox"
+tabs = [
+  "https://github.com/ajduncan/blog",
+  "http://localhost:1313/",
+  "https://ajduncan.org/blog/"
+]
+
+[ide]
+editor = "atom"
+project_directory = "."
