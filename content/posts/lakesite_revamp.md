@@ -2,6 +2,8 @@
 title: "Lakesite Revamp"
 date: 2018-12-02T16:54:34-05:00
 draft: false
+tags: ["di", "lakesite", "business", "life"]
+categories: ["business", "life"]
 ---
 
 I'd just walked away from an extremely lucrative job while I was still
